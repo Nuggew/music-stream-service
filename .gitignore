@@ -134,13 +134,17 @@ dist
 !.yarn/sdks
 !.yarn/versions
 
+# Project Exclusive
+libs/*
+
 # Vite logs files
 vite.config.js.timestamp-*
+<<<<<<< HEAD
 <<<<<<< HEAD
 vite.config.ts.timestamp-*
 =======
 vite.config.ts.timestamp-*
 >>>>>>> 949d85c (Initial commit)
-
-# Project Exclusive
-libs/*
+=======
+vite.config.ts.timestamp-*
+>>>>>>> 18daf123aa91cb42d3a4cdd19aa011eb99f7ebd0
